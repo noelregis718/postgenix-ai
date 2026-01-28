@@ -33,7 +33,7 @@ PostgeniX AI is a powerful Next.js application that leverages AI to generate eng
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/priyansusingh/postgenix-ai.git
+   git clone https://github.com/noelregis718/postgenix-ai.git
    cd postgenix-ai
    ```
 
@@ -72,6 +72,16 @@ Check out the [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Author
+
+**Noel Regis**
+- GitHub: [@noelregis718](https://github.com/noelregis718)
+- Email: noelregis718@gmail.com
+
+## License
+
+This project is open source and available under the MIT License.
 
 
 
