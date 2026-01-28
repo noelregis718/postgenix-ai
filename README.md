@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./public/postgenix-ai-preview.png" alt="PostgeniX AI Logo" />
-</p>
-
 # PostgeniX AI: Social Media Content Generator
 
 PostgeniX AI is a powerful Next.js application that leverages AI to generate engaging content for various social media platforms. This project uses cutting-edge technologies to provide users with an intuitive interface for creating Twitter threads, Instagram captions, and LinkedIn posts.
